@@ -8,7 +8,7 @@ Contributions can be made in the form of bug reports, feature requests, code imp
 
 ### 1. Opening Issues
 
-If you find a bug, have a question, or want to suggest a new feature, feel free to [open an issue](https://github.com/AnthonyByansi/MicrosoftFabric-Exploratorium.git). Make sure to include relevant details such as steps to reproduce, expected behavior, and screenshots if applicable.
+If you find a bug, have a question, or want to suggest a new feature, feel free to [open an issue](https://github.com/azuresphere7/MicrosoftFabric-Exploratorium.git). Make sure to include relevant details such as steps to reproduce, expected behavior, and screenshots if applicable.
 
 ### 2. Feature Requests
 
