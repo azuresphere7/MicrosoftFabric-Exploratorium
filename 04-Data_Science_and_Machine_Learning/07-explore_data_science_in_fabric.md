@@ -32,13 +32,4 @@ Microsoft Fabric provides a comprehensive environment for developing and experim
 - **Model Evaluation**: Evaluate model performance using various metrics and techniques to ensure model effectiveness.
 - **Collaboration**: Collaborate with fellow data scientists and stakeholders through shared notebooks and insights.
 
-## Model Deployment and Monitoring
-
-Once a machine learning model is developed and evaluated, it's important to deploy and monitor it in a production environment. Microsoft Fabric offers tools and capabilities for:
-
-- **Model Deployment**: Deploy models as web services for real-time predictions using Fabric's deployment capabilities.
-- **Model Monitoring**: Monitor model performance and drift to ensure ongoing accuracy and effectiveness.
-- **Feedback Loop**: Use monitored performance to improve models over time, iterating and retraining as needed.
-
-
 Microsoft Fabric empowers data scientists to explore, analyze, and model data in a collaborative and integrated environment. By providing tools for data exploration, feature engineering, model development, and deployment, Fabric supports end-to-end data science workflows, enabling organizations to harness the power of their data for valuable insights and predictions.
